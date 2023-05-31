@@ -18,7 +18,6 @@ a {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto 0 auto;
-    outline: 2px solid black;
 
 }
 
@@ -82,6 +81,7 @@ a {
 }
 
 .content {
+    max-width: 466px;
     padding: 0 0 37px 0;
     font-size: 20px;
     line-height: 23px;
